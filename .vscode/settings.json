@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.f": "FortranFreeForm",
+        "*.dat": "abaqus",
+        "ostream": "cpp"
+    }
+}
